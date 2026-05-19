@@ -4,7 +4,7 @@ import pickle
 import numpy as np
 
 st.set_page_config(page_title="German Credit Predictor", layout="centered")
-st.title("German Credit Risk Predictor")
+st.title("German  Credit Risk Predictor")
 st.markdown("### Predict if a customer is **Good** or **Bad** credit risk")
 
 @st.cache_resource
